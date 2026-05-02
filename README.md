@@ -68,10 +68,4 @@ Two-phase security assessment on Metasploitable 2. Phase 1: full TCP recon acros
 
 ---
 
-## 📊 GitHub Stats
-
-![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doumit04&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
----
-
 *"Most security students use pre-built tools. I build the tools — because understanding the internals is what makes a great defender."*
