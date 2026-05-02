@@ -18,6 +18,13 @@ My projects mirror real enterprise security workflows: from a full SIEM pipeline
 
 ---
 
+## 🔨 Currently Working On
+
+**NetWatchman — Network Intrusion Detection System**
+> Building a real-time NIDS in Python that analyzes network traffic across 15 attack categories including port scanning, ARP/DNS spoofing, SYN flooding, SQL injection, brute force, and data exfiltration. Alerts mapped to MITRE ATT&CK, enriched with live threat intelligence, and displayed on a real-time Flask dashboard.
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔵 [LogSentry — SIEM Log Analyzer & Threat Detection Engine](https://github.com/Doumit04/LogSentry)
