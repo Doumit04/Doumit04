@@ -12,7 +12,7 @@ I'm a computer science graduate focused on **defensive security** — threat det
 My projects mirror real enterprise security workflows: from a full SIEM pipeline mapped to MITRE ATT&CK, to a hybrid phishing detection engine, to a two-phase penetration test with 18 custom detection rules.
 
 - 🛡️ Focused on: **SOC Analysis · Threat Detection · Detection Engineering**
-- 🔧 Currently building: security tooling that bridges offensive knowledge with defensive practice
+- 🔧 Open to: internship opportunities and entry-level security roles in Lebanon
 - 💼 LinkedIn: [linkedin.com/in/tony-doumit](https://linkedin.com/in/tony-doumit)
 - 🧠 TryHackMe: [tryhackme.com/p/tonydoumit15](https://tryhackme.com/p/tonydoumit15)
 
@@ -60,7 +60,7 @@ Two-phase security assessment on Metasploitable 2. Phase 1: full TCP recon acros
 `MITRE ATT&CK` `STIX 2.0`
 
 **Development**  
-`Python` `JavaScript` `PHP` `C++` `SQL` `React` `REST APIs`
+`Python` `JavaScript` `PHP` `C++` `C#` `SQL` `React` `REST APIs`
 
 **Platforms & Tools**  
 `Linux CLI` `VirtualBox` `Git/GitHub` `MySQL` `PostgreSQL`
