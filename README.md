@@ -18,14 +18,14 @@ My projects mirror real enterprise security workflows: from a full SIEM pipeline
 
 ---
 
-## 🔨 Currently Working On
+## 🚀 Featured Projects
 
-**NetWatchman — Network Intrusion Detection System**
-> Building a real-time NIDS in Python that analyzes network traffic across 15 attack categories including port scanning, ARP/DNS spoofing, SYN flooding, SQL injection, brute force, and data exfiltration. Alerts mapped to MITRE ATT&CK, enriched with live threat intelligence, and displayed on a real-time Flask dashboard.
+### 🟢 [NetWatchman — Network Intrusion Detection System](https://github.com/Doumit04/netwatchman)
+> Python · Flask · MITRE ATT&CK · Scapy · REST APIs
+
+Python-based modular NIDS with 16 independent attack detectors spanning reconnaissance, credential theft, denial-of-service, web exploitation, and data exfiltration. Every alert mapped to a MITRE ATT&CK technique across 9 tactics. Includes a real-time Flask dashboard with live replay mode and PDF/CSV export.
 
 ---
-
-## 🚀 Featured Projects
 
 ### 🔵 [LogSentry — SIEM Log Analyzer & Threat Detection Engine](https://github.com/Doumit04/LogSentry)
 > Python · MITRE ATT&CK · STIX 2.0 · AbuseIPDB API · Jinja2
@@ -60,7 +60,7 @@ Two-phase security assessment on Metasploitable 2. Phase 1: full TCP recon acros
 `MITRE ATT&CK` `STIX 2.0`
 
 **Development**  
-`Python` `JavaScript` `PHP` `C#` `SQL` `React` `REST APIs`
+`Python` `JavaScript` `PHP` `C++` `SQL` `React` `REST APIs`
 
 **Platforms & Tools**  
 `Linux CLI` `VirtualBox` `Git/GitHub` `MySQL` `PostgreSQL`
