@@ -69,9 +69,14 @@ Two-phase security assessment on Metasploitable 2. Phase 1: full TCP recon acros
 
 ## 📜 Certifications
 
+- ✅ [**Fortinet Certified Associate (FCA) in Cybersecurity**](https://www.credly.com/earner/earned/badge/8d00316c-9e00-4958-97b0-877954c19486) — Fortinet | Issued Jun 27, 2026 · Valid until Jun 27, 2028
+- ✅ [**NSE 3 – Cybersecurity**](https://www.credly.com/earner/earned/badge/18b44dbf-f3f4-4057-b5c8-7eafeb6fc8b3) — Fortinet | Issued Jun 27, 2026 · Valid until Jun 27, 2028
+- ✅ **NSE 2 – Cybersecurity** — Fortinet | Issued Jun 10, 2026 · Valid until Jun 27, 2028
+- ✅ [**NSE 1 – Cybersecurity**](https://www.credly.com/earner/earned/badge/ab034d06-2f2e-4efe-85af-7fdfc6e519db) — Fortinet | Issued Jun 10, 2026 · Valid until Jun 27, 2028
+- ✅ [**Fortinet Certified Fundamentals (FCF) in Cybersecurity**](https://www.credly.com/earner/earned/badge/44b048da-ee79-462f-a39d-8b2e44cfcdcb) — Fortinet | Issued Jun 10, 2026 · Valid until Jun 27, 2028
 - 🏆 **TryHackMe Cybersecurity Foundations** — Bronze League Winner, 1st Place (Top 5.1%)
-- ✅ **Cisco — Endpoint Security** (Score: 91%)
-- ✅ **Cisco — Introduction to Cybersecurity** (Score: 80%)
+- ✅ [**Cisco — Endpoint Security**](https://www.credly.com/earner/earned/badge/5e30011d-715b-4bb9-a710-c191cb7350ea) — Cisco | Issued Dec 5, 2025 (Score: 91%)
+- ✅ [**Cisco — Introduction to Cybersecurity**](https://www.credly.com/earner/earned/badge/d135bf42-a3b2-4cb6-80a0-58c810acb36c) — Cisco | Issued Nov 24, 2025 (Score: 80%)
 
 ---
 
