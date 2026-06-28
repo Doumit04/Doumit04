@@ -3,7 +3,7 @@
 **Cybersecurity Engineer** · Beirut, Lebanon  
 CS Graduate · Starting MSc in Cybersecurity (USJ) — Aug 2026 · Top 5.1% on TryHackMe · Building security tools from scratch
 
-![Fortinet FCA](https://img.shields.io/badge/Fortinet-FCA-blueviolet) ![NSE3](https://img.shields.io/badge/Fortinet-NSE3-blue) ![Cisco](https://img.shields.io/badge/Cisco-Endpoint%20Security-049fd9)
+![Fortinet FCA](https://img.shields.io/badge/Fortinet-FCA-blueviolet) ![Fortinet NSE3](https://img.shields.io/badge/Fortinet-NSE3-blue) ![Fortinet NSE2](https://img.shields.io/badge/Fortinet-NSE2-0d6efd) ![Fortinet NSE1](https://img.shields.io/badge/Fortinet-NSE1-0d6efd) ![Fortinet FCF](https://img.shields.io/badge/Fortinet-FCF-6610f2) ![Cisco Endpoint Security](https://img.shields.io/badge/Cisco-Endpoint%20Security-049fd9) ![Cisco Intro to Cybersecurity](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-049fd9)
 
 ---
 
