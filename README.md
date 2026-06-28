@@ -1,7 +1,9 @@
 # Hi, I'm Tony Doumit 👋
 
 **Cybersecurity Engineer** · Beirut, Lebanon  
-CS Graduate · Top 5.1% on TryHackMe · Building security tools from scratch
+CS Graduate · Starting MSc in Cybersecurity (USJ) — Aug 2026 · Top 5.1% on TryHackMe · Building security tools from scratch
+
+![Fortinet FCA](https://img.shields.io/badge/Fortinet-FCA-blueviolet) ![NSE3](https://img.shields.io/badge/Fortinet-NSE3-blue) ![Cisco](https://img.shields.io/badge/Cisco-Endpoint%20Security-049fd9)
 
 ---
 
