@@ -50,6 +50,14 @@ Two-phase security assessment on Metasploitable 2. Phase 1: full TCP recon acros
 
 ---
 
+🟣 SecureLogShipper — Encrypted Log Transport Tool
+
+    C# · .NET 10 · AES-256 + RSA-2048 · TCP Sockets
+
+Secure log transport tool using hybrid AES+RSA encryption to protect SIEM/NIDS log data (e.g., NetWatchman alerts) while in transit. Implements per-message AES key generation for forward secrecy, RSA-2048 key exchange, and a full sender/receiver TCP pipeline — mirroring the core cryptographic approach used by TLS.
+
+---
+
 ## 🛠️ Technical Skills
 
 **Security Tools**  
