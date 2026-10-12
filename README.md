@@ -1,7 +1,7 @@
 # Hi, I'm Tony Doumit 👋
 
 **Cybersecurity Engineer** · Beirut, Lebanon  
-CS Graduate · Starting MSc in Cybersecurity (USJ) — Aug 2026 · Top 5.1% on TryHackMe · Building security tools from scratch
+CS Graduate · Started MSc in Cybersecurity (USJ) — Aug 2026 · Top 5.1% on TryHackMe · Building security tools from scratch
 
 ![Fortinet FCA](https://img.shields.io/badge/Fortinet-FCA-blueviolet) ![Fortinet NSE3](https://img.shields.io/badge/Fortinet-NSE3-blue) ![Fortinet NSE2](https://img.shields.io/badge/Fortinet-NSE2-0d6efd) ![Fortinet NSE1](https://img.shields.io/badge/Fortinet-NSE1-0d6efd) ![Fortinet FCF](https://img.shields.io/badge/Fortinet-FCF-6610f2) ![Cisco Endpoint Security](https://img.shields.io/badge/Cisco-Endpoint%20Security-049fd9) ![Cisco Intro to Cybersecurity](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-049fd9)
 
@@ -11,7 +11,7 @@ CS Graduate · Starting MSc in Cybersecurity (USJ) — Aug 2026 · Top 5.1% on T
 
 I'm a computer science graduate focused on **defensive security** — threat detection, log analysis, SIEM architecture, and penetration testing. I don't just study security concepts; I build the tools that implement them.
 
-My projects mirror real enterprise security workflows: from a full SIEM pipeline mapped to MITRE ATT&CK, to a hybrid phishing detection engine, to a two-phase penetration test with 18 custom detection rules, to a hybrid-encrypted log transport pipeline.
+My projects mirror real enterprise security workflows: from a full SIEM pipeline mapped to MITRE ATT&CK, to a hybrid phishing detection engine, to a two-phase penetration test with 18 custom detection rules, to a hybrid-encrypted log transport pipeline, to custom runtime-detection rules on a live Linux host with Falco.
 
 - 🛡️ Focused on: **SOC Analysis · Threat Detection · Detection Engineering**
 - 🔧 Open to: internship opportunities and entry-level security roles in Lebanon
@@ -21,6 +21,13 @@ My projects mirror real enterprise security workflows: from a full SIEM pipeline
 ---
 
 ## 🚀 Featured Projects
+
+### 🟠 [Falco Runtime Security — Custom Detection Rules for a Linux Host](https://github.com/Doumit04/falco-runtime-security)
+> Falco · eBPF · Ubuntu 24.04 · YAML rules · Bash · MITRE ATT&CK
+
+Wrote **9 custom Falco rules** that detect a planted setuid backdoor, network scanners, attack tools, and tampering with Falco itself, mapped to MITRE ATT&CK (T1548.001, T1046, T1562.001). Tested every rule with a deliberate trigger on a live Ubuntu VM and measured its noise in normal use. **Tuned three rules** with narrow exceptions: one default rule went from **27 false alerts to 0** while a real `cat /etc/shadow` still raised the alert. Includes an 11-scene live demo script and a 73-page report.
+
+---
 
 ### 🟢 [NetWatchman — Network Intrusion Detection System](https://github.com/Doumit04/netwatchman)
 > Python · Flask · MITRE ATT&CK · Scapy · REST APIs
@@ -60,10 +67,10 @@ Secure log transport tool using hybrid AES+RSA encryption to protect SIEM/NIDS l
 ## 🛠️ Technical Skills
 
 **Security Tools**  
-`Wireshark` `Nmap` `Metasploit` `Snort/Suricata` `Burp Suite` `Netcat` `msfvenom` `Tcpdump`
+`Falco` `Wireshark` `Nmap` `Metasploit` `Snort/Suricata` `Burp Suite` `Netcat` `msfvenom` `Tcpdump`
 
 **Security Domains**  
-`Threat Detection` `SIEM Architecture` `Log Analysis` `Penetration Testing` `Detection Engineering` `Incident Response` `Email Security` `Vulnerability Assessment`
+`Threat Detection` `Runtime Security` `SIEM Architecture` `Log Analysis` `Penetration Testing` `Detection Engineering` `Incident Response` `Email Security` `Vulnerability Assessment`
 
 **Frameworks**  
 `MITRE ATT&CK` `STIX 2.0`
@@ -72,7 +79,7 @@ Secure log transport tool using hybrid AES+RSA encryption to protect SIEM/NIDS l
 `Python` `JavaScript` `PHP` `C++` `C#` `SQL` `React` `REST APIs`
 
 **Platforms & Tools**  
-`Linux CLI` `VirtualBox` `Git/GitHub` `MySQL` `PostgreSQL`
+`Linux CLI` `Bash` `eBPF` `VirtualBox` `Git/GitHub` `MySQL` `PostgreSQL`
 
 ---
 
